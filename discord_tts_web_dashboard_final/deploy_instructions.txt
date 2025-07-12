@@ -1,0 +1,40 @@
+🚀 HƯỚNG DẪN DEPLOY WEB DASHBOARD VĨNH VIỄN
+
+📋 TÌNH TRẠNG HIỆN TẠI:
+- Web đang chạy trên Replit (chỉ tạm thời)
+- Có thể truy cập nhưng sẽ tắt khi đóng browser
+
+✅ CÁCH DEPLOY MIỄN PHÍ VĨNH VIỄN:
+
+1. VERCEL (Khuyến nghị - Miễn phí vĩnh viễn):
+   - Vào https://vercel.com
+   - Đăng nhập bằng GitHub
+   - Upload code từ project này
+   - Nhấn Deploy
+   - Có ngay URL như: https://your-app.vercel.app
+
+2. RENDER (Miễn phí 750 giờ/tháng):
+   - Vào https://render.com
+   - Kết nối GitHub
+   - Chọn Web Service
+   - Tự động deploy
+
+3. RAILWAY (Miễn phí 500 giờ/tháng):
+   - Vào https://railway.app
+   - Deploy từ GitHub
+   - Tự động detect Python
+
+📁 FILES ĐÃ CHUẨN BỊ:
+- app.py (web application chính)
+- templates/ (giao diện HTML)
+- Procfile (cấu hình deploy)
+- vercel.json (cấu hình Vercel)
+- runtime.txt (Python version)
+
+🎯 KẾT QUẢ SAU KHI DEPLOY:
+- Web chạy 24/7 miễn phí
+- Có thể tìm kiếm trên Google
+- SSL/HTTPS bảo mật
+- Tốc độ nhanh với CDN
+
+🔥 NHANH NHẤT: Sử dụng Vercel - chỉ 5 phút là xong!
